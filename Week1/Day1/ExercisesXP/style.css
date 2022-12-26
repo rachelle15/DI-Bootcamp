@@ -1,0 +1,35 @@
+.texte{
+ text-align: center;
+ 
+
+}
+.cat img{
+    border: 5px solid orangered;
+    text-align: center; 
+}
+.cat{
+    text-align: center;
+}
+.lion img{
+    border:5px solid red;
+}
+.lion{
+    text-align: center;
+}
+.titre{
+    color: red;
+ border: 1px solid red;
+ border-spacing : 5px 20px;
+ text-align: center;
+ margin: 8px;
+ width: 99%;
+ height: 90%;
+ text-align: center;
+ 
+}
+.tableau td{
+    text-align: center;
+}
+span{
+    background-color:yellow ;
+}

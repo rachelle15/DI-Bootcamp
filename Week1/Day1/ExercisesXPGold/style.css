@@ -1,0 +1,68 @@
+/* GENERAL */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* NAVBAR */
+.navbar{
+    margin-left: 10em;
+}
+.btn-signin{
+    background-color: #6495ed ;
+    border: none;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-left: 55em;
+}
+
+/* HEADER */
+.bg_imgs{
+    background-image:url("spexels-fabian-wiktor-994605.jpg");
+    background-size: cover;
+    height: 35vw;
+}
+.info{
+    font-family:'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    width: 50%;
+    padding-top: 35px;
+}
+#email{
+    width: 250px;
+    padding: 4px 0px 3px 4px;
+    border-radius: 3px;
+    border: none;
+    margin-left: 25px;
+}
+
+
+/* ICONS */
+.icons{
+    text-align: center;
+}
+.items{
+    position: absolute;
+    top: 30em;
+    left: 5em ;
+}
+i{
+    color: blue;
+}
+.bootstrap{
+    position: absolute;
+    top: 30em;
+    left: 25em;
+}
+.easy{
+    position: absolute;
+    top: 30em;
+    left: 46em;
+}
+p{
+    color: #403f3d;
+    font-size: 15px;
+}
